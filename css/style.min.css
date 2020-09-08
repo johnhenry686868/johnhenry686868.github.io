@@ -112,7 +112,7 @@ h6,
 }
 .btn-primary.focus,
 .btn-primary.active {
-  background: background: #4378e0 !important;
+  background: #4378e0 !important;
   box-shadow: none !important;
 }
 .btn-transparent {
@@ -170,7 +170,7 @@ select:focus {
   outline: 0;
 }
 a.text-dark:hover {
-  color: background: #4378e0 !important;
+  color: var(--primary-color) !important;
 }
 a:hover {
   color: var(--primary-color);
@@ -211,13 +211,13 @@ a:hover {
   display: unset !important;
 }
 .bg-primary {
-  background: background: #4378e0 !important;
+  background: #4378e0 !important;
 }
 .bg-gray {
   background: #eaeaea !important;
 }
 .text-primary {
-  color: background: #4378e0 !important;
+  color: var(--primary-color) !important;
 }
 .text-color {
   color: #4c4c4c;
